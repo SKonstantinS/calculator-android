@@ -1,0 +1,22 @@
+<resources>
+    <style name="ActoinButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">#AA90D7</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:textColor">#ffffee</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="NumberButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">#7D45DE</item>
+        <item name="android:textSize">38sp</item>
+        <item name="android:textColor">#ffffee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">0.5dp</item>
+    </style>
+
+</resources>
